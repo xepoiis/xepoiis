@@ -1,16 +1,18 @@
-## Hi there 👋
+> whoami
+"Jose F. Galdamez | Estudiante de Ing. en Informática"
 
-<!--
-**xepoiis/xepoiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> pwd
+"/chile/araucania/"
 
-Here are some ideas to get you started:
+> cat skills.txt
+["Python", "C#", "JavaScript", "HTML5"]
+["MySQL", "MongoDB", "DNS Spoofing"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ls -l /intereses/
+drwxr-xr-x  Ciberseguridad_y_Normativa
+drwxr-xr-x  Hardware_Tuning
+drwxr-xr-x  Desarrollo_OffGrid
+drwxr-xr-x  Proyectos_Web
+
+> ./current_status.sh
+"Codeando webs, estructurando bases de datos y levantando redes."
