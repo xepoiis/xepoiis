@@ -1,3 +1,4 @@
+<pre><code>```bash
 root@xepoiis:~# neofetch --profile
 
        /\        USER:  jose_galdamez - xepoiis
@@ -26,3 +27,4 @@ total 12
 drwxr-xr-x  3 root root 4096 May 27 20:07 .
 drwxr-xr-x  3 root root 4096 May 27 20:07 ..
 drwxr-xr-x  2 root root 4096 May 27 20:07 Malla_Alerta_OffGrid
+```</code></pre>
