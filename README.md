@@ -3,7 +3,7 @@ root@xepoiis:~# neofetch --profile
 
       /\                 /\        USER:  jose_galdamez - xepoiis
      / \'._   (\_/)   _.'/ \       ROLE:  Informatics Engineering Student
-    /_.''._'--('.')--'_.''._\      LOC:   Pitrufquén, Araucanía, Chile
+    /_.''._'--('.')--'_.''._\      LOC:   Araucanía, Chile
     | \_ / `;=/ " \=;` \ _/ |      OS:    Linux (Arch)
      \/ `\__|`\___/`|__/`  \/      LANG:  Python, Java, PHP, C#, JS, HTML/CSS
       `      \(/|\)/       `       LIBS:  Bootstrap, Chart.js
